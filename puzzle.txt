@@ -1,4 +1,0 @@
-this is first line from master branch
-
-
-second line created from branch2
