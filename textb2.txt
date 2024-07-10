@@ -1,0 +1,1 @@
+creating a file(testb2)in branch2 just for test purpose
